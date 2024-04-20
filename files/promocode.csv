@@ -1,0 +1,4 @@
+"id","coupon_link","store_url","name","species","promocode","store_name","date_end","new","deleted","description","status_code","createdAt","updatedAt"
+1,"https://promokodus.com/go/3445702","https://promokodus.com/campaigns/10pokupok","10 покупок","promocode","PROMO10","10 покупок","default_value_here",true,false,"",,"2023-12-24T18:53:54.024Z","2023-12-25T06:05:13.419Z"
+2,"https://promokodus.com/go/4037387","https://promokodus.com/campaigns/1001tur","1001 Тур","promocode","TUR061","1001 Тур","default_value_here",true,false,"",,"2023-12-24T18:53:59.851Z","2023-12-25T06:05:13.442Z"
+3,"https://promokodus.com/go/3839871","https://promokodus.com/campaigns/1001dress","1001dress","promocode","promokodus","1001dress","default_value_here",true,false,"",,"2023-12-24T18:54:32.231Z","2023-12-25T06:05:13.456Z"
